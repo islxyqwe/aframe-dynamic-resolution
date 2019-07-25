@@ -2,11 +2,11 @@
   "name": "aframe-dynamic-resolution",
   "version": "1.0.0",
   "description": "A dynamic resolution controller component for A-Frame.",
-  "main": "dist/main.js",
+  "main": "dist/aframe-dynamic-resolution.js",
   "author": "islxyqwe",
   "license": "MIT",
   "scripts": {
-    "build": "rollup -c && tsc"
+    "build": "rollup -c"
   },
   "devDependencies": {
     "@types/aframe": "^0.8.3",

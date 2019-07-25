@@ -8,7 +8,7 @@ export default {
   output: {
     name: 'AFRAME_DynaimcResolutionComponent',
     file: 'dist/aframe-dynamic-resolution.js',
-    format: 'iife',
+    format: 'umd',
     globals: {
       aframe: 'AFRAME'
     },
